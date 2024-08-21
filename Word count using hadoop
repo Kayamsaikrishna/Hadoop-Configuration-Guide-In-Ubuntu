@@ -1,1 +1,13 @@
+# Hadoop WordCount Example
+
+This project demonstrates the WordCount example using Apache Hadoop on Ubuntu.
+
+## Prerequisites
+
+- Hadoop configured and running on your machine.
+- Input file `input.txt` with the following content:
+
+```text
+Hello Hadoop Hadoop Hadoop World
+Hello World from Hadoop
 
